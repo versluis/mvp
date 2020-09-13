@@ -41,7 +41,8 @@ Both controller and keyboard/mouse navigation is supported for movement, however
 
 # Support this project
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F721DI9)
 - Buy me a [Ko-fi](https://ko-fi.com/wpguru)
 - Support me on [Patreon](https://patreon.com/versluis)
 - full list of options [on my website](https://wpguru.tv/support)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F721DI9)
