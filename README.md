@@ -4,6 +4,8 @@ I needed a place to distribute downloadable binaries and thought this might work
 
 Featuring Unreal Guy on a mysterious island, faced with a devastating countdown timer and the impossible mission of having to collect 20 scary purple objects.
 
+As I learn more about Unreal Engine, I'll expand the project.
+
 ![](screenshots/MVP-Game.jpg)
 
 My first ever release of an Unreal Engine Project!
@@ -36,3 +38,10 @@ Both controller and keyboard/mouse navigation is supported for movement, however
 - collect all purple objects before the time runs out
 - you can't die or drown (or swim)
 - don't walk off the outer edge of the game world
+
+# Support this project
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F721DI9)
+- Buy me a [Ko-fi](https://ko-fi.com/wpguru)
+- Support me on [Patreon](https://patreon.com/versluis)
+- full list of options [on my website](https://wpguru.tv/support)
