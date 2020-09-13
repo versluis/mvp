@@ -25,6 +25,8 @@ To download, head over to the [Release Archive](https://github.com/versluis/mvp/
 Un-ZIP the archive to a folder of your choice, then run MVP.exe to play the demo.
 These builds are currently Windows 64-bit only. Windows may prevent you from running it. Should this happen, select "show more" and "run anyway".
 
+![](screenshots/mvp6.png)
+
 # How to play
 
 Both controller and keyboard/mouse navigation is supported for movement, however menus only have mouse support right now.
