@@ -6,4 +6,4 @@ Featuring Unreal Guy on a mysterious island, faced with a devastating countdown 
 
 My first ever release of an Unreal Engine Project!
 
-![](screenshots/MVP-Game.png)
+![](screenshots/MVP-Game.jpg)
